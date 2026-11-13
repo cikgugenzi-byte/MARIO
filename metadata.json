@@ -1,0 +1,6 @@
+{
+  "name": "MARIO: MISSION ZAKAT HERO!",
+  "description": "Petualangan Belajar Interaktif 3D Fikih Kelas VI SD tentang Zakat, Infaq, dan Sedekah (ZIS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
